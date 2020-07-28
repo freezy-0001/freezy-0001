@@ -1,4 +1,4 @@
-# :man_technologist: Bruno Neszmenyi
+# :wave: Bruno Neszmenyi
 
 [![Twitter Badge](https://img.shields.io/badge/-freezy0001-0099FF?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@neszmenyibruno)
 [![Discord Badge](https://img.shields.io/badge/-freezy0001-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.bio/p/freezy)
