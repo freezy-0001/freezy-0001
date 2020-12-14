@@ -5,7 +5,7 @@
 [![NPM Badge](https://img.shields.io/badge/-freezy0001-D30007?style=flat-square&logo=npm)](https://www.npmjs.com/~freezy0001)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freezy0001w@gmail.com)](mailto:freezy0001w@gmail.com)
 
-    Hello my name is Bruno Neszmenyi, Full-stack web & Discord bot developer.
+    Hello my name is Bruno Neszmenyi, Full-stack web developer.
 
 ## Knowledges
 
