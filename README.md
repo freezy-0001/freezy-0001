@@ -1,6 +1,4 @@
-# :wave: Bruno Neszmenyi
-
-[![Twitter Badge](https://img.shields.io/badge/-freezy0001-0099FF?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@neszmenyibruno)
+[![Twitter Badge](https://img.shields.io/badge/-freezy0001-0099FF?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@brunoneszmenyi)
 [![Discord Badge](https://img.shields.io/badge/-freezy0001-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.bio/p/freezy)
 [![NPM Badge](https://img.shields.io/badge/-freezy0001-D30007?style=flat-square&logo=npm)](https://www.npmjs.com/~freezy0001)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freezy0001w@gmail.com)](mailto:freezy0001w@gmail.com)
